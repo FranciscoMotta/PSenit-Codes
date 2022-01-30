@@ -5,7 +5,6 @@ Algoritmo acciones_selectivas
 	leer num1; // Primer dato
 	Escribir "Ingresa el segundo número: "
 	leer num2; // Segundo dato
-	
 	resta <- num1 - num2;
 	// num1 = 10 y num2 = 15 -> 10 - 15 -> -5 < 0
 	// num1 = 15 y num2 = 10 -> 15 - 10 -> 5 > 0
